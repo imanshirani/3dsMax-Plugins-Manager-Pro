@@ -1,7 +1,7 @@
-# 🚀 3DSMax Plugin Manager Pro
+# 🚀 3DS Max Plugin Manager Pro
 **A Professional, Dark-Themed Plugin & Profile Manager for 3ds Max 2025+**
 
-Max Plugin Manager Pro is a powerful Python-based tool designed for 3D artists and technical directors to manage their 3ds Max environment with ease. It allows you to toggle plugins, create custom profiles for different workflows (e.g., Rendering, Simulation), and keep your startup clean.
+3ds Max Plugin Manager Pro is a powerful Python-based tool designed for 3D artists and technical directors to manage their 3ds Max environment with ease. It allows you to toggle plugins, create custom profiles for different workflows (e.g., Rendering, Simulation), and keep your startup clean.
 Developed by: **Iman Shirani**
 
 [![Donate ❤️](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?hosted_button_id=LAMNRY6DDWDC4)
